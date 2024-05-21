@@ -1,15 +1,12 @@
-# DIO | Resumos Git e Github
+# DIO | Projeto Sistema Banco
 
-Repositório para armazenar resumos sobre Git e Github do curso de Versionamento de Código com Git e Github.
+Repositório para armazenar o projeto criado para submetar no teste da plataforma DIO.
 
-## Documentação
-- [Documentação Git](https://git-scm.com/)
-- [Documentação Github](https://github.com/)
 
-## Resumos das Aulas
-| Aulas | Resumos |
+## Atividades
+| Aulas | Projetos |
 |-------|---------|
-|Gravando Alterações no Repositório Local | [Resumos]()|
+|Submetendo o projeto| [Projeto Sistema Banco]()|
 
 ```
 git init
